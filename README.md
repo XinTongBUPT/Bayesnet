@@ -31,9 +31,9 @@ raining, given that the grass is wet and it's cloudy?"
 
 
 
-## Task
+## Function
 
-`student_code.py`, which consists of the lonely little function definition.
+`function.py`, which consists of the lonely little function definition.
 The `ask` function needs to return the probability of a hypothesis given some evidence: P(H|E).  
 The function takes four arguments: 
 * `var` is the name of the hyptothesis variable.
